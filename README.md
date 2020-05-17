@@ -8,10 +8,8 @@
   COVID-19 Visualizer🦠
 </h1>
 
-## COVID-19 Visualizer🦠
-<img alt="COVID-19_LOGO" src="./src/images/image.png" width="300" />  
-
-### covid19.mathdroのAPIから情報を取得し、グラフ化して整理して表示するアプリ
+## [COVID-19 Visualizer🦠](http://covid-19-visualizer.surge.sh/)
+### covid19.mathdroのAPIから情報を取得し、グラフ化して表示するアプリ
 ### 1. デフォルト時
 - 感染者数,回復者数,死者数の合計をカード表示  
 - 感染者数と死者数の推移を線グラフで表示 (2020.01.22~)
@@ -25,6 +23,7 @@
   - HTML / CSS (Material-UI)
   - Typescript
   - React, React hooks
+  - surge.sh
 
 
 ## 📚 他のプロジェクト
